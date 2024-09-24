@@ -18,7 +18,7 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-background-image: url(IMG_7022.JPEG);
+background-image: IMG_7022.JPEG;
     padding: 3rem 0;
     gap: 3rem;
     font-family: 'Poppins', sans-serif;
